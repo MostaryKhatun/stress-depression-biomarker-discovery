@@ -1,1 +1,46 @@
+Software and Computational Requirements
+Programming Environment
 
+R (version 4.2.2) was used for statistical analysis and transcriptomic data processing.
+
+R Packages
+
+limma – used for differential gene expression (DEG) analysis.
+
+WGCNA (version 1.72-1) – used for weighted gene co-expression network analysis.
+
+Network Analysis and Visualization
+
+NetworkAnalyst 3.0 – used for protein–protein interaction (PPI) network construction.
+
+STRING database – used to retrieve protein interaction information.
+
+Cytoscape (version 3.10.3) – used for visualization and analysis of biological networks.
+
+CytoHubba plugin – used for hub gene identification through topological analysis.
+
+Functional Enrichment Analysis
+
+Gene Ontology (GO) – used for functional annotation and biological process analysis.
+
+KEGG (Kyoto Encyclopedia of Genes and Genomes) – used for pathway enrichment analysis.
+
+WikiPathways – used for pathway-based functional interpretation.
+
+Regulatory Network Analysis
+
+JASPAR database – used to identify transcription factor (TF)–gene interactions.
+
+miRTarBase – used to obtain experimentally validated miRNA–gene interactions.
+
+Molecular Docking and Visualization
+
+AutoDock Vina – used for molecular docking simulations.
+
+PyMOL (version 3.1.3.1) – used for visualization and preparation of protein–ligand structures.
+
+Data Sources
+
+NCBI Gene Expression Omnibus (GEO) – used to obtain gene expression datasets (GSE98793 and GSE63878).
+
+PubChem database – used to obtain the chemical structures of candidate compounds.
