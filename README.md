@@ -1,4 +1,4 @@
-# Integrative Gene Expression Analysis Reveals Molecular Links Between Stress and Depression
+# Network Biology and Gene Expression Profiling Identify Key Biomarkers Underlying the Molecular link Between Stress and Depression: Bioinformatics and Machine Learning Approach
 
 This repository contains the analysis scripts, processed data, and supplementary resources used in the study:
 
