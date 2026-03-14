@@ -111,14 +111,18 @@ R scripts for analysis
 Figures/
 analysis outputs results and figures
 
+Molecular-docking/
+molecular docking results
+
 Processed data/
 processed datasets and DEG tables
 
-docking/
-molecular docking results
-
 supplementary/
 supplementary tables used in the manuscript
+
+README.md
+
+Requirements.txt
 
 ## Reproducibility
 
