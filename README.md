@@ -108,8 +108,8 @@ The following computational tools were used in this study:
 Analysis scripts/
 R scripts for analysis
 
-results/
-analysis outputs and figures
+Figures/
+analysis outputs results and figures
 
 Processed data/
 processed datasets and DEG tables
