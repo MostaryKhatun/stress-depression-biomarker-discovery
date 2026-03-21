@@ -1,8 +1,8 @@
-# Network Biology and Gene Expression Profiling Identify Key Biomarkers Underlying the Molecular link Between Stress and Depression: Bioinformatics and Machine Learning Approach
+# Integrative Gene Expression Analysis Using Artificial Intelligence and Network Biology Reveals Molecular Links Between Stress and Depression
 
 This repository contains the analysis scripts, processed data, and supplementary resources used in the study:
 
-**“Network Biology and Gene Expression Profiling Identify Key Biomarkers Underlying the Molecular link Between Stress and Depression: Bioinformatics and Machine Learning Approach”**
+**“Integrative Gene Expression Analysis Using Artificial Intelligence and Network Biology Reveals Molecular Links Between Stress and Depression”**
 
 The study integrates transcriptomic analysis, machine learning–based feature selection, network biology, and molecular docking to identify shared biomarkers and potential therapeutic targets associated with stress and depression.
 
