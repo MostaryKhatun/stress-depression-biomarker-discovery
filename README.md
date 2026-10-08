@@ -24,8 +24,7 @@ Gene expression datasets were obtained from the NCBI Gene Expression Omnibus (GE
 - GSE54566 (GPL570) – MDD (postmortem brain; exploratory cross-tissue analysis)
 - GSE67663 (GPL6884) – comorbid PTSD and depression (brain tissue)
 
-Protein structures were obtained from the RCSB Protein Data Bank, and compound structures from PubChem. Case and control definitions and exclusions for every cohort are given in Supplementary Table S9.
-
+Protein structures were obtained from the RCSB Protein Data Bank, and compound structures from PubChem. 
 ---
 
 ## Analysis Workflow
@@ -40,7 +39,7 @@ Protein structures were obtained from the RCSB Protein Data Bank, and compound s
 3. **Feature Selection**
    - Fisher Score ranking within each dataset
    - Selection of the top 800 genes per dataset
-   - Cut-off stability and bootstrap analyses (Supplementary Table S17)
+   - Cut-off stability and bootstrap analyses 
 
 4. **Common DEG Identification**
    - Intersection of the two top-ranked lists (19 shared genes)
