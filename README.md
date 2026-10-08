@@ -22,7 +22,7 @@ Gene expression datasets were obtained from the NCBI Gene Expression Omnibus (GE
 - GSE32280 (GPL570) – MDD (peripheral blood lymphocytes); subsyndromal depression samples excluded
 - GSE39653 (GPL10558) – MDD (PBMCs); bipolar disorder samples excluded
 - GSE54566 (GPL570) – MDD (postmortem brain; exploratory cross-tissue analysis)
-- GSE67663 (GPL6884) – comorbid PTSD and depression ([tissue])
+- GSE67663 (GPL6884) – comorbid PTSD and depression (brain tissue)
 
 Protein structures were obtained from the RCSB Protein Data Bank, and compound structures from PubChem. Case and control definitions and exclusions for every cohort are given in Supplementary Table S9.
 
