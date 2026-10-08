@@ -1,0 +1,6 @@
+﻿Phenotype,Discovery → Validation,n (case/control),Genes,AUC (95% CI),Sensitivity,Specificity,Balanced accuracy,Holm p
+MDD,GSE98793 → GSE32280,24 (16/8),10/10,0.52 (0.26–0.79),0.38,0.5,0.44,0.733
+MDD,GSE98793 → GSE39653,45 (21/24),8/10,0.62 (0.46–0.79),0.67,0.67,0.67,0.316
+MDD,GSE98793 → GSE54566,28 (14/14),10/10,0.54 (0.32–0.77),0.43,0.57,0.5,0.733
+Comorbid PTSD+MDD,GSE63878 → GSE67663,184 (112/72),7/10,0.54 (0.45–0.62),0.57,0.56,0.56,0.635
+Pooled (random effects),,,,0.55 (0.48–0.62); I² = 0%,,,,

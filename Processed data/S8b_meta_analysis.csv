@@ -1,0 +1,7 @@
+﻿Analysis,Pool,k,Pooled_AUC,CI_low,CI_high,tau2,I2_percent,p_vs_0_5
+Primary frozen,All validation cohorts,4,0.5515,0.4805,0.6226,0.0,0.0,0.1553
+Primary frozen,MDD cohorts,3,0.5797,0.4593,0.7002,0.0,0.0,0.1943
+Seed-gene panel (frozen),All validation cohorts,4,0.4936,0.4224,0.5649,0.0,0.0,0.8609
+Seed-gene panel (frozen),MDD cohorts,3,0.4933,0.3697,0.6169,0.0,0.0,0.9151
+Sensitivity: single 10-gene model,All validation cohorts,4,0.4929,0.39,0.5957,0.0039,34.3788,0.8922
+Sensitivity: single 10-gene model,MDD cohorts,3,0.5685,0.4476,0.6893,0.0,0.0,0.2668
