@@ -1,0 +1,29 @@
+﻿Dataset,Model,Scheme,Genes,AUC,BalancedAcc,Sensitivity,Specificity,F1,MCC
+PTSD (GSE63878),LogReg,"A: in-fold selection, 5-fold",800,0.947 ± 0.039,0.894 ± 0.073,0.918 ± 0.117,0.871 ± 0.110,0.898 ± 0.076,0.803 ± 0.136
+PTSD (GSE63878),LogReg,"A: in-fold selection, 5-fold x 10",800,0.943 ± 0.053,0.862 ± 0.085,0.871 ± 0.120,0.853 ± 0.116,0.862 ± 0.088,0.734 ± 0.168
+PTSD (GSE63878),LogReg,B: leaky (selection before CV),800,0.952 ± 0.045,0.916 ± 0.068,0.918 ± 0.117,0.913 ± 0.083,0.916 ± 0.075,0.843 ± 0.131
+PTSD (GSE63878),LinearSVM,"A: in-fold selection, 5-fold",800,0.958 ± 0.035,0.906 ± 0.066,0.918 ± 0.117,0.893 ± 0.070,0.906 ± 0.074,0.821 ± 0.129
+PTSD (GSE63878),LinearSVM,"A: in-fold selection, 5-fold x 10",800,0.953 ± 0.042,0.883 ± 0.078,0.886 ± 0.113,0.879 ± 0.108,0.881 ± 0.081,0.773 ± 0.154
+PTSD (GSE63878),LinearSVM,B: leaky (selection before CV),800,0.967 ± 0.039,0.906 ± 0.066,0.918 ± 0.117,0.893 ± 0.070,0.906 ± 0.074,0.821 ± 0.129
+PTSD (GSE63878),RandomForest,"A: in-fold selection, 5-fold",800,0.810 ± 0.088,0.738 ± 0.100,0.709 ± 0.073,0.767 ± 0.167,0.735 ± 0.083,0.481 ± 0.200
+PTSD (GSE63878),RandomForest,"A: in-fold selection, 5-fold x 10",800,0.797 ± 0.112,0.711 ± 0.104,0.688 ± 0.155,0.735 ± 0.156,0.701 ± 0.113,0.434 ± 0.213
+PTSD (GSE63878),RandomForest,B: leaky (selection before CV),800,0.822 ± 0.089,0.749 ± 0.146,0.733 ± 0.096,0.764 ± 0.236,0.756 ± 0.118,0.505 ± 0.297
+PTSD (GSE63878),LogReg,C: nested (genes chosen in inner folds),800; 800; 800; 800; 800,0.947 ± 0.039,,,,,
+PTSD (GSE63878),LogReg,D: shared genes re-derived in each fold,21; 18; 20; 16; 21,0.799 ± 0.140,,,,,
+PTSD (GSE63878),LogReg,D-ref: fixed 19 shared genes (leaky),19,0.810 ± 0.145,0.706 ± 0.098,0.660 ± 0.154,0.751 ± 0.121,0.687 ± 0.121,0.423 ± 0.202
+PTSD (GSE63878),LogReg,E: nominal-p screening and Fisher selection in each fold,"18761 genes; nominal p<0.08 per fold [667, 761, 508, 1123, 569]",0.763 ± 0.075,0.676 ± 0.121,0.751 ± 0.076,0.600 ± 0.234,0.706 ± 0.089,0.356 ± 0.243
+PTSD (GSE63878),LogReg,P: label permutation (100),800,observed 0.947; null 0.488; p = 0.0099,,,,,
+MDD (GSE98793),LogReg,"A: in-fold selection, 5-fold",800,0.732 ± 0.034,0.653 ± 0.044,0.836 ± 0.051,0.471 ± 0.080,0.795 ± 0.032,0.330 ± 0.092
+MDD (GSE98793),LogReg,"A: in-fold selection, 5-fold x 10",800,0.728 ± 0.074,0.620 ± 0.074,0.826 ± 0.075,0.414 ± 0.134,0.779 ± 0.049,0.261 ± 0.159
+MDD (GSE98793),LogReg,B: leaky (selection before CV),800,0.938 ± 0.013,0.860 ± 0.017,0.906 ± 0.030,0.813 ± 0.036,0.906 ± 0.015,0.721 ± 0.036
+MDD (GSE98793),LinearSVM,"A: in-fold selection, 5-fold",800,0.728 ± 0.018,0.610 ± 0.028,0.829 ± 0.052,0.391 ± 0.085,0.776 ± 0.021,0.243 ± 0.049
+MDD (GSE98793),LinearSVM,"A: in-fold selection, 5-fold x 10",800,0.720 ± 0.072,0.605 ± 0.068,0.833 ± 0.071,0.378 ± 0.124,0.776 ± 0.045,0.235 ± 0.150
+MDD (GSE98793),LinearSVM,B: leaky (selection before CV),800,0.942 ± 0.007,0.845 ± 0.060,0.906 ± 0.018,0.783 ± 0.131,0.900 ± 0.023,0.695 ± 0.093
+MDD (GSE98793),RandomForest,"A: in-fold selection, 5-fold",800,0.647 ± 0.027,0.539 ± 0.046,0.907 ± 0.039,0.171 ± 0.056,0.781 ± 0.023,0.117 ± 0.134
+MDD (GSE98793),RandomForest,"A: in-fold selection, 5-fold x 10",800,0.663 ± 0.071,0.546 ± 0.054,0.886 ± 0.079,0.206 ± 0.097,0.775 ± 0.042,0.131 ± 0.152
+MDD (GSE98793),RandomForest,B: leaky (selection before CV),800,0.816 ± 0.022,0.676 ± 0.033,0.946 ± 0.046,0.405 ± 0.050,0.843 ± 0.020,0.448 ± 0.102
+MDD (GSE98793),LogReg,C: nested (genes chosen in inner folds),1000; 1000; 800; 1000; 1000,0.737 ± 0.050,,,,,
+MDD (GSE98793),LogReg,D: shared genes re-derived in each fold,19; 19; 24; 17; 22,0.593 ± 0.034,,,,,
+MDD (GSE98793),LogReg,D-ref: fixed 19 shared genes (leaky),19,0.781 ± 0.078,0.724 ± 0.088,0.743 ± 0.068,0.704 ± 0.121,0.786 ± 0.062,0.430 ± 0.172
+MDD (GSE98793),LogReg,E: nominal-p screening and Fisher selection in each fold,"20848 genes; nominal p<0.08 per fold [1705, 1963, 2301, 2761, 3040]",0.656 ± 0.036,0.591 ± 0.074,0.789 ± 0.038,0.394 ± 0.156,0.754 ± 0.032,0.186 ± 0.151
+MDD (GSE98793),LogReg,P: label permutation (100),800,observed 0.732; null 0.508; p = 0.0099,,,,,
