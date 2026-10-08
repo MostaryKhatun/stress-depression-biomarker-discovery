@@ -1,0 +1,81 @@
+﻿Library,Gene_set,Term,Overlap,FDR,Genes
+KEGG_2021_Human,Shared genes 0.08 Top800 (19),Rap1 signaling pathway,3/193,0.03346335838005839,DOCK4;HGF;IGF1R
+KEGG_2021_Human,Shared genes 0.08 Top800 (19),Proteoglycans in cancer,3/187,0.03346335838005839,EIF4B;HGF;IGF1R
+KEGG_2021_Human,Shared genes 0.08 Top800 (19),Pathways in cancer,4/490,0.0343600333829135,HGF;IGF1R;PML;STAT2
+KEGG_2021_Human,Shared genes 0.08 Top800 (19),Melanoma,2/68,0.0351890440052346,HGF;IGF1R
+KEGG_2021_Human,Shared genes 0.08 Top800 (19),PI3K-Akt signaling pathway,3/322,0.05708107607305544,EIF4B;HGF;IGF1R
+KEGG_2021_Human,Shared genes 0.08 Top800 (19),Influenza A,2/144,0.07922581491266341,PML;STAT2
+KEGG_2021_Human,Shared genes 0.08 Top800 (19),Transcriptional misregulation in cancer,2/157,0.07922581491266341,IGF1R;PML
+KEGG_2021_Human,Shared genes 0.08 Top800 (19),Hepatocellular carcinoma,2/150,0.07922581491266341,HGF;IGF1R
+KEGG_2021_Human,Shared genes 0.08 Top800 (19),mTOR signaling pathway,2/141,0.07922581491266341,EIF4B;IGF1R
+KEGG_2021_Human,Shared genes 0.08 Top800 (19),Focal adhesion,2/187,0.09925801835601751,HGF;IGF1R
+KEGG_2021_Human,Shared genes 0.05 Top800,Acute myeloid leukemia,1/62,0.1661082295557605,PML
+KEGG_2021_Human,Shared genes 0.05 Top800,Influenza A,1/144,0.1661082295557605,PML
+KEGG_2021_Human,Shared genes 0.05 Top800,Other types of O-glycan biosynthesis,1/43,0.1661082295557605,GALNT11
+KEGG_2021_Human,Shared genes 0.05 Top800,Mucin type O-glycan biosynthesis,1/32,0.1661082295557605,GALNT11
+KEGG_2021_Human,Shared genes 0.05 Top800,Transcriptional misregulation in cancer,1/157,0.1661082295557605,PML
+KEGG_2021_Human,Shared genes 0.05 Top800,Rap1 signaling pathway,1/193,0.1661082295557605,DOCK4
+KEGG_2021_Human,Shared genes 0.05 Top800,RNA transport,1/141,0.1661082295557605,EIF4B
+KEGG_2021_Human,Shared genes 0.05 Top800,Proteoglycans in cancer,1/187,0.1661082295557605,EIF4B
+KEGG_2021_Human,Shared genes 0.05 Top800,Ubiquitin mediated proteolysis,1/126,0.1661082295557605,PML
+KEGG_2021_Human,Shared genes 0.05 Top800,mTOR signaling pathway,1/141,0.1661082295557605,EIF4B
+KEGG_2021_Human,Hub genes 0.08 Top800,Pathways in cancer,10/490,3.203012234926083e-14,ERBB2;HDAC1;HGF;IGF1R;JAK1;JAK2;MDM2;PML;STAT2;STAT3
+KEGG_2021_Human,Hub genes 0.08 Top800,PI3K-Akt signaling pathway,6/322,3.763390612418494e-07,ERBB2;HGF;IGF1R;JAK1;JAK2;MDM2
+KEGG_2021_Human,Hub genes 0.08 Top800,Epstein-Barr virus infection,5/177,7.929851391962401e-07,HDAC1;JAK1;MDM2;STAT2;STAT3
+KEGG_2021_Human,Hub genes 0.08 Top800,Proteoglycans in cancer,5/187,7.929851391962401e-07,ERBB2;HGF;IGF1R;MDM2;STAT3
+KEGG_2021_Human,Hub genes 0.08 Top800,Necroptosis,4/116,7.182976714567033e-06,JAK1;JAK2;STAT2;STAT3
+KEGG_2021_Human,Hub genes 0.08 Top800,Signaling pathways regulating pluripotency of stem cells,4/131,9.753049051066915e-06,IGF1R;JAK1;JAK2;STAT3
+KEGG_2021_Human,Hub genes 0.08 Top800,Influenza A,4/144,1.0063515855385738e-05,JAK1;JAK2;PML;STAT2
+KEGG_2021_Human,Hub genes 0.08 Top800,Hepatitis B,4/147,1.0063515855385738e-05,JAK1;JAK2;STAT2;STAT3
+KEGG_2021_Human,Hub genes 0.08 Top800,Viral carcinogenesis,4/152,1.0063515855385738e-05,HDAC1;JAK1;MDM2;STAT3
+KEGG_2021_Human,Hub genes 0.08 Top800,Transcriptional misregulation in cancer,4/157,1.0063515855385738e-05,HDAC1;IGF1R;MDM2;PML
+KEGG_2021_Human,Hub genes 0.05 Top800,Ribosome,4/99,2.5070804054159233e-06,RPL15;RPS19;RPS28;RPS6
+KEGG_2021_Human,Hub genes 0.05 Top800,Coronavirus disease,4/185,1.5475183991164064e-05,RPL15;RPS19;RPS28;RPS6
+KEGG_2021_Human,Hub genes 0.05 Top800,mTOR signaling pathway,3/141,0.00033899114683590955,EIF4B;RPS6;RPS6KB2
+KEGG_2021_Human,Hub genes 0.05 Top800,Proteoglycans in cancer,3/187,0.0005901460575390648,EIF4B;RPS6;RPS6KB2
+KEGG_2021_Human,Hub genes 0.05 Top800,PI3K-Akt signaling pathway,3/322,0.0023546312655307973,EIF4B;RPS6;RPS6KB2
+KEGG_2021_Human,Hub genes 0.05 Top800,HIF-1 signaling pathway,2/103,0.005524080012748282,RPS6;RPS6KB2
+KEGG_2021_Human,Hub genes 0.05 Top800,AMPK signaling pathway,2/115,0.005752479637104188,EEF2;RPS6KB2
+KEGG_2021_Human,Hub genes 0.05 Top800,Insulin signaling pathway,2/129,0.005752479637104188,RPS6;RPS6KB2
+KEGG_2021_Human,Hub genes 0.05 Top800,Apelin signaling pathway,2/128,0.005752479637104188,RPS6;RPS6KB2
+KEGG_2021_Human,Hub genes 0.05 Top800,Thermogenesis,2/189,0.010983446625727337,RPS6;RPS6KB2
+WikiPathways_2024_Human,Shared genes 0.08 Top800 (19),NRP1 Triggered Signaling In Pancreatic Cancer WP5144,2/51,0.04150235371569023,HGF;PLXNA2
+WikiPathways_2024_Human,Shared genes 0.08 Top800 (19),Interferon Type I Signaling WP585,2/51,0.04150235371569023,EIF4B;STAT2
+WikiPathways_2024_Human,Shared genes 0.08 Top800 (19),Cancer Pathways WP5434,4/470,0.04150235371569023,HGF;IGF1R;PML;STAT2
+WikiPathways_2024_Human,Shared genes 0.08 Top800 (19),Focal Adhesion PI3K Akt mTOR Signaling WP3932,3/287,0.058247664090601135,EIF4B;HGF;IGF1R
+WikiPathways_2024_Human,Shared genes 0.08 Top800 (19),EGFR Tyrosine Kinase Inhibitor Resistance WP4806,2/81,0.058247664090601135,HGF;IGF1R
+WikiPathways_2024_Human,Shared genes 0.08 Top800 (19),PI3K Akt Signaling WP4172,3/309,0.05968606468099827,EIF4B;HGF;IGF1R
+WikiPathways_2024_Human,Shared genes 0.08 Top800 (19),Somatroph Axis GH Relationship To Dietary Restriction And Aging WP4186,1/6,0.07299538512813764,IGF1R
+WikiPathways_2024_Human,Shared genes 0.08 Top800 (19),Mod Of PI3K Akt mTOR Signaling By Bioactive Sphingolipids WP5192,1/11,0.07533426248314797,IGF1R
+WikiPathways_2024_Human,Shared genes 0.08 Top800 (19),IL10 Anti Inflammatory Signaling WP4495,1/11,0.07533426248314797,STAT2
+WikiPathways_2024_Human,Shared genes 0.08 Top800 (19),Ectoderm Differentiation WP2858,2/127,0.07533426248314797,AHI1;PLXNA2
+WikiPathways_2024_Human,Shared genes 0.05 Top800,Perturbations Host Cell Autophagy Induced By SARS CoV 2 Prots WP4936,1/42,0.08728756539514622,EIF4B
+WikiPathways_2024_Human,Shared genes 0.05 Top800,Deregulation Of Rab And Rab Effector Genes In Bladder Cancer WP2291,1/16,0.08728756539514622,SYTL2
+WikiPathways_2024_Human,Shared genes 0.05 Top800,Translation Inhibitors In Chronically Activated PDGFRA Cells WP4566,1/43,0.08728756539514622,EIF4B
+WikiPathways_2024_Human,Shared genes 0.05 Top800,DNA IR Damage And Cellular Response Via ATR WP4016,1/75,0.08728756539514622,PML
+WikiPathways_2024_Human,Shared genes 0.05 Top800,Wnt Beta Catenin Signaling In Leukemia WP3658,1/25,0.08728756539514622,PML
+WikiPathways_2024_Human,Shared genes 0.05 Top800,miRNA Regulation Of DNA Damage Response WP1530,1/63,0.08728756539514622,PML
+WikiPathways_2024_Human,Shared genes 0.05 Top800,Interferon Type I Signaling WP585,1/51,0.08728756539514622,EIF4B
+WikiPathways_2024_Human,Shared genes 0.05 Top800,P53 Transcriptional Gene Network WP4963,1/84,0.08728756539514622,PML
+WikiPathways_2024_Human,Shared genes 0.05 Top800,Acute Myeloid Leukemia WP5293,1/63,0.08728756539514622,PML
+WikiPathways_2024_Human,Shared genes 0.05 Top800,Orexin Receptor Pathway WP5094,1/86,0.08728756539514622,EIF4B
+WikiPathways_2024_Human,Hub genes 0.08 Top800,Cancer Pathways WP5434,10/470,4.506606676641131e-14,ERBB2;HDAC1;HGF;IGF1R;JAK1;JAK2;MDM2;PML;STAT2;STAT3
+WikiPathways_2024_Human,Hub genes 0.08 Top800,EGFR Tyrosine Kinase Inhibitor Resistance WP4806,6/81,1.8612896036586413e-10,ERBB2;HGF;IGF1R;JAK1;JAK2;STAT3
+WikiPathways_2024_Human,Hub genes 0.08 Top800,IL6 Signaling WP364,4/43,4.514361324831531e-07,HDAC1;JAK1;JAK2;STAT3
+WikiPathways_2024_Human,Hub genes 0.08 Top800,Thyroid Stimulating Hormone TSH Signaling WP2032,4/53,8.01087961240804e-07,IGF1R;JAK1;JAK2;STAT3
+WikiPathways_2024_Human,Hub genes 0.08 Top800,IL10 Anti Inflammatory Signaling WP4495,3/11,8.822853156388361e-07,JAK1;STAT2;STAT3
+WikiPathways_2024_Human,Hub genes 0.08 Top800,ncRNAs Involved In STAT3 Signaling In Hepatocellular Carcinoma WP4337,3/13,1.2736206466983013e-06,JAK1;JAK2;STAT3
+WikiPathways_2024_Human,Hub genes 0.08 Top800,Leptin Signaling WP2034,4/69,1.345309666988548e-06,ERBB2;JAK1;JAK2;STAT3
+WikiPathways_2024_Human,Hub genes 0.08 Top800,Prolactin Signaling WP2037,4/72,1.3996539864367853e-06,ERBB2;JAK1;JAK2;STAT3
+WikiPathways_2024_Human,Hub genes 0.08 Top800,Immune Response To Tuberculosis WP4197,3/22,4.55920612904034e-06,JAK1;JAK2;STAT2
+WikiPathways_2024_Human,Hub genes 0.08 Top800,Androgen Receptor Network In Prostate Cancer WP2263,4/103,4.769762525252114e-06,HGF;JAK1;MDM2;STAT3
+WikiPathways_2024_Human,Hub genes 0.05 Top800,Cytoplasmic Ribosomal Proteins WP477,5/59,1.0382451884498779e-09,RPL15;RPS19;RPS28;RPS6;RPS6KB2
+WikiPathways_2024_Human,Hub genes 0.05 Top800,Translation Inhibitors In Chronically Activated PDGFRA Cells WP4566,3/43,1.827433304397776e-05,EIF4B;RPS6;RPS6KB2
+WikiPathways_2024_Human,Hub genes 0.05 Top800,Follicle Stimulating Hormone FSH Signaling WP2035,2/22,0.0006453258198857195,RPS6;RPS6KB2
+WikiPathways_2024_Human,Hub genes 0.05 Top800,Perturbations Host Cell Autophagy Induced By SARS CoV 2 Prots WP4936,2/42,0.0010259768339842233,EIF4B;RPS6
+WikiPathways_2024_Human,Hub genes 0.05 Top800,Translation Factors WP107,2/42,0.0010259768339842233,EEF2;EIF4B
+WikiPathways_2024_Human,Hub genes 0.05 Top800,IL2 Signaling WP49,2/36,0.0010259768339842233,RPS6;RPS6KB2
+WikiPathways_2024_Human,Hub genes 0.05 Top800,IL5 Signaling WP127,2/36,0.0010259768339842233,RPS6;RPS6KB2
+WikiPathways_2024_Human,Hub genes 0.05 Top800,Interferon Type I Signaling WP585,2/51,0.0012150426515335647,EIF4B;RPS6
+WikiPathways_2024_Human,Hub genes 0.05 Top800,Focal Adhesion PI3K Akt mTOR Signaling WP3932,3/287,0.0012150426515335647,EIF4B;RPS6;RPS6KB2
+WikiPathways_2024_Human,Hub genes 0.05 Top800,PI3K Akt Signaling WP4172,3/309,0.0013590929743520655,EIF4B;RPS6;RPS6KB2

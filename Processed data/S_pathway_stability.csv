@@ -1,0 +1,5 @@
+﻿Library,Comparison,Significant_A,Significant_B,Shared_significant,Jaccard,Example_shared_terms
+KEGG_2021_Human,Shared genes 0.08 Top800 (19) vs Shared genes 0.05 Top800,4,0,0,0.0,
+KEGG_2021_Human,Hub genes 0.08 Top800 vs Hub genes 0.05 Top800,69,10,4,0.05,Coronavirus disease; HIF-1 signaling pathway; PI3K-Akt signaling pathway; Proteoglycans in cancer
+WikiPathways_2024_Human,Shared genes 0.08 Top800 (19) vs Shared genes 0.05 Top800,3,0,0,0.0,
+WikiPathways_2024_Human,Hub genes 0.08 Top800 vs Hub genes 0.05 Top800,159,29,18,0.11,Acute Myeloid Leukemia WP5293; Brain Derived Neurotrophic Factor BDNF Signaling WP2380; EGFR Tyrosine Kinase Inhibitor Resistance WP4806; Focal Adhesion PI3K Akt mTOR Signaling WP3932; Head And Neck Squamous Cell Carcinoma WP4674
