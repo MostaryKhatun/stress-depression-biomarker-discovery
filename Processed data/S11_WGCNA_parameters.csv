@@ -1,0 +1,14 @@
+﻿Parameter,Setting
+Reference network,"GSE98793 (MDD; GPL570; 192 samples: 128 MDD, 64 controls)"
+Test network,"GSE63878 (PTSD; GPL6244; 96 samples: 48 PTSD, 48 controls)"
+Input data,Full gene-level matrices without DEG or label-based filtering; probes averaged per gene symbol
+Genes measured on both platforms,"16,911"
+Genes analysed,"5,017 (5,000 most variable in the reference + hub genes and shared DEGs)"
+Not used for network construction,"Top-800 Fisher-score genes, combined feature sets and the 19 shared genes"
+Network type,Signed; Pearson correlation; signed TOM
+Soft-thresholding power,12 (lowest power with signed R² ≥ 0.85; R² = 0.862)
+Module detection,"blockwiseModules, single block; minModuleSize = 30; deepSplit = 2; mergeCutHeight = 0.25"
+Modules detected,6 (53–2450 genes); 510 unassigned (grey)
+Module preservation,"modulePreservation; reference GSE98793, test GSE63878; 200 permutations"
+Additional analyses,"Reverse preservation (GSE63878 → GSE98793, 200 permutations); gene-set size 3,000 and 8,000 (100 permutations)"
+Random seed,12345

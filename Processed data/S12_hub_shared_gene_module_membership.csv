@@ -1,0 +1,26 @@
+﻿Gene,Gene set,Module (GSE98793),kME GSE98793,kME GSE63878,GS MDD (p),GS PTSD (p),Same direction in MDD and PTSD
+IGF1R,hub + shared DEG,grey,-0.53,-0.45,0.24 (0.001),-0.18 (0.077),no
+STAT2,hub + shared DEG,brown,0.46,-0.66,0.17 (0.018),0.18 (0.073),yes
+PML,hub + shared DEG,turquoise,0.57,0.78,0.09 (0.211),0.26 (0.010),yes
+HGF,hub + shared DEG,grey,-0.22,-0.23,0.18 (0.011),0.19 (0.061),yes
+HDAC1,hub (network),turquoise,0.88,0.88,-0.08 (0.250),-0.00 (0.962),yes
+JAK2,hub (network),blue,0.64,0.76,0.09 (0.236),0.12 (0.229),yes
+JAK1,hub (network),brown,0.83,-0.75,-0.14 (0.060),-0.01 (0.959),yes
+MDM2,hub (network),brown,0.39,-0.72,0.07 (0.348),-0.12 (0.236),no
+ERBB2,hub (network),grey,-0.02,-0.45,0.03 (0.692),-0.05 (0.629),no
+STAT3,hub (network),turquoise,-0.06,0.75,-0.01 (0.896),0.13 (0.220),no
+TDRD9,shared DEG,grey,-0.34,0.01,0.30 (0.000),0.25 (0.015),yes
+OLFM4,shared DEG,grey,-0.28,-0.26,0.26 (0.000),0.20 (0.046),yes
+SYTL2,shared DEG,turquoise,0.37,0.38,-0.22 (0.002),0.21 (0.039),no
+BTN3A2,shared DEG,turquoise,0.52,0.7,-0.18 (0.011),0.19 (0.067),no
+PLXNA2,shared DEG,turquoise,0.32,0.02,0.16 (0.027),-0.19 (0.058),no
+EIF4B,shared DEG,turquoise,0.3,0.88,-0.23 (0.002),-0.08 (0.424),yes
+CYP2U1,shared DEG,blue,0.43,0.44,-0.16 (0.023),0.20 (0.051),no
+GALNT11,shared DEG,brown,0.32,-0.47,-0.20 (0.004),0.28 (0.005),no
+DKKL1,shared DEG,grey,-0.21,0.56,0.20 (0.005),-0.24 (0.018),no
+GFI1B,shared DEG,turquoise,0.31,0.16,0.15 (0.036),-0.20 (0.050),no
+PTMA,shared DEG,brown,0.6,-0.44,-0.19 (0.008),-0.22 (0.035),yes
+AHI1,shared DEG,grey,0.41,-0.15,-0.13 (0.064),0.23 (0.027),no
+SCAPER,shared DEG,turquoise,0.65,0.17,-0.10 (0.165),0.28 (0.006),no
+SLC22A14,shared DEG,brown,0.34,0.65,0.19 (0.008),-0.19 (0.067),no
+DOCK4,shared DEG,brown,0.39,-0.31,0.13 (0.065),0.21 (0.045),yes

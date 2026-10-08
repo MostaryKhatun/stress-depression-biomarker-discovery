@@ -1,0 +1,8 @@
+﻿Module,Module size (genes),Zsummary,Zdensity,Zconnectivity,Median rank,Preservation,r with MDD (FDR),r with PTSD (FDR)
+blue,1238,23.98,22.78,25.18,3,Strong,-0.03 (0.94),0.05 (0.82)
+turquoise,2450,19.21,11.34,27.08,4,Strong,0.01 (0.94),0.03 (0.82)
+green,83,6.64,6.2,7.08,1,Moderate,0.06 (0.78),0.02 (0.82)
+red,53,4.8,4.02,5.57,2,Moderate,0.15 (0.11),-0.09 (0.82)
+yellow,156,3.54,-0.17,7.26,5,Moderate,0.11 (0.30),-0.02 (0.82)
+brown,527,-1.05,-5.98,3.89,7,Not preserved,-0.01 (0.94),-0.06 (0.82)
+gold (random genes)†,1000,12.18,5.38,18.97,,Reference,,
