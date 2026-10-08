@@ -1,0 +1,10 @@
+Item,Setting
+Primary threshold,nominal p < 0.08
+Primary cut-off,800
+Knee MDD,579
+Knee PTSD,80
+Bootstrap samples,200
+Label permutations,200
+Universe for overlap,140 genes that are DEGs in both datasets
+Stability index,Nogueira et al. (2018)
+Seed,42

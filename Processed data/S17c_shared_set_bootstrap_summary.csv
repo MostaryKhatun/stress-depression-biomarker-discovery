@@ -1,0 +1,2 @@
+﻿Bootstrap_samples,Shared_genes_observed,Shared_genes_bootstrap_median,Shared_genes_bootstrap_IQR,Jaccard_to_observed_median,Jaccard_IQR,Genes_shared_in_50pct_of_bootstraps,Genes_shared_in_80pct_of_bootstraps
+200,19,21,18-24,0.22,0.17-0.26,3,1

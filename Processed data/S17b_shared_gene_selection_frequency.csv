@@ -1,0 +1,20 @@
+﻿Gene,In primary 19,Selected in MDD Top-800 (% bootstraps),Selected in PTSD Top-800 (% bootstraps),Shared in both (% bootstraps)
+TDRD9,yes,90.0,94.5,85.0
+SYTL2,yes,66.0,96.0,63.0
+OLFM4,yes,68.0,92.0,62.5
+PML,yes,48.0,100.0,48.0
+PLXNA2,yes,43.5,88.0,38.0
+CYP2U1,yes,40.5,91.5,37.0
+BTN3A2,yes,38.0,91.5,35.5
+DKKL1,yes,35.0,98.5,35.0
+HGF,yes,37.0,89.0,33.5
+GALNT11,yes,33.0,100.0,33.0
+EIF4B,yes,38.5,87.5,33.0
+IGF1R,yes,41.0,80.0,32.5
+AHI1,yes,30.5,97.0,30.0
+DOCK4,yes,31.5,93.5,30.0
+GFI1B,yes,34.5,88.5,28.5
+SLC22A14,yes,29.0,89.0,28.0
+PTMA,yes,27.5,93.5,26.5
+STAT2,yes,28.5,90.0,26.5
+SCAPER,yes,24.5,100.0,24.5
