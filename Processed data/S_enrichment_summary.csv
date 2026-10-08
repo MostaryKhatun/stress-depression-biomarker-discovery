@@ -1,0 +1,19 @@
+﻿Gene_list,Library,Terms_in_library,Terms_tested,Significant_FDR_0_05,Min_FDR
+Shared DEGs (19),GO_Biological_Process_2025,5343,220,0,0.1048
+Hub genes (10),GO_Biological_Process_2025,5343,440,335,0.0
+Shared DEGs (19),GO_Molecular_Function_2025,1174,45,0,0.1001
+Hub genes (10),GO_Molecular_Function_2025,1174,51,41,0.0
+Shared DEGs (19),GO_Cellular_Component_2025,468,30,0,0.1235
+Hub genes (10),GO_Cellular_Component_2025,468,24,10,0.0061
+Shared DEGs (19),KEGG_2021_Human,320,54,4,0.0335
+Hub genes (10),KEGG_2021_Human,320,84,69,0.0
+Shared DEGs (19),WikiPathways_2024_Human,829,76,3,0.0415
+Hub genes (10),WikiPathways_2024_Human,829,180,159,0.0
+Shared DEGs (19),Reactome_Pathways_2024,2105,129,0,0.122
+Hub genes (10),Reactome_Pathways_2024,2105,273,234,0.0
+Shared DEGs (19),BioCarta_2016,238,8,8,0.0266
+Hub genes (10),BioCarta_2016,238,47,47,0.0
+Shared DEGs (19),BioPlanet_2019,1510,114,0,0.0962
+Hub genes (10),BioPlanet_2019,1510,236,198,0.0
+Shared DEGs (19),DSigDB,4027,457,0,0.1865
+Hub genes (10),DSigDB,4027,1075,744,0.0

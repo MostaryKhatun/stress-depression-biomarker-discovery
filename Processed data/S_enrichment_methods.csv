@@ -1,0 +1,11 @@
+﻿Item,Setting
+Gene universe,"16,911 genes measured on both platforms (GSE98793, GSE63878)"
+Gene lists,"Shared DEGs (19): TDRD9, OLFM4, SYTL2, PML, BTN3A2, PLXNA2, EIF4B, CYP2U1, IGF1R, GALNT11, HGF, DKKL1, GFI1B, PTMA, AHI1, SCAPER, SLC22A14, DOCK4, STAT2; Hub genes (10): IGF1R, STAT2, PML, HGF, HDAC1, JAK2, JAK1, MDM2, ERBB2, STAT3"
+Genes not in universe,Shared DEGs (19): none; Hub genes (10): none
+Main libraries (Enrichr),"GO_Biological_Process_2025, GO_Molecular_Function_2025, GO_Cellular_Component_2025, KEGG_2021_Human, WikiPathways_2024_Human"
+Supplementary libraries (Enrichr),"Reactome_Pathways_2024, BioCarta_2016, BioPlanet_2019, DSigDB"
+Library download date,2026-10-03
+Test,One-sided hypergeometric test; terms with at least one input gene
+Term size filter,5-2000 genes within the universe
+Multiple testing,Benjamini-Hochberg FDR within each library and gene list; significance FDR < 0.05
+Enrichment ratio,"(k/n)/(K/N): k overlap, n input genes, K term size, N universe size"
