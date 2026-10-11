@@ -1,7 +1,7 @@
-# Identification of Shared Candidate Biomarkers for Post-Traumatic Stress Disorder and Depression Using Fisher Score Feature Selection, Network Analysis, and Molecular Docking
+# Identification of Shared Candidate Biomarkers for Post-Traumatic Stress Disorder and Depression Using Fisher Score-Based Feature Selection, Network Analysis, and Molecular Docking
 This repository contains the analysis scripts, processed data, and supplementary resources used in the study:
 
-**"Identification of Shared Candidate Biomarkers for Post-Traumatic Stress Disorder and Depression Using Fisher Score Feature Selection, Network Analysis, and Molecular Docking"**
+**"Identification of Shared Candidate Biomarkers for Post-Traumatic Stress Disorder and Depression Using Fisher Score-Based Feature Selection, Network Analysis, and Molecular Docking"**
 
 The study combines transcriptomic analysis, machine learning–based feature selection, network biology, and exploratory molecular docking to identify genes shared between post-traumatic stress disorder (PTSD) and major depressive disorder (MDD), and to assess how well these genes transfer to independent cohorts.
 
